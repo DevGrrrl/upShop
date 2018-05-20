@@ -7,7 +7,7 @@ _Make every purchase count_
 
 Check out the app here: [UpShop App](https://upshop.herokuapp.com/)
 
-I am currently in the process of redesigning this app's UI. Checkout the progress [here](https://github.com/DevGrrrl/app-refresh)
+I am currently in the process of redesigning this app's UI. Checkout the progress [here](https://github.com/DevGrrrl/app-refresh).
 
 ## To run the app
 The app has been built for smart phones.
